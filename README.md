@@ -73,7 +73,7 @@ This component is intentionally designed as a **replaceable service layer**, all
 
 ## Installation
 
-1. Clone the repository:https://github.com/vergoo9/QuoteApp/new/main?filename=README.md
+1. Clone the repository: https://github.com/vergoo9/QuoteApp/tree/main
 2. Open the project in Xcode:QuoteApp.xcodeproj
 3. Build and run on iOS Simulator (iOS 15 or later)
 
