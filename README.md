@@ -99,10 +99,10 @@ This component is intentionally designed as a **replaceable service layer**, all
 
 ## 📸 Screenshots
 
-<img src="Screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.11.31.png" width="250"/>
-<img src="Screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.14.png" width="250"/>
-<img src="Screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.18.png" width="250"/>
-<img src="Screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.26.png" width="250"/>
+<img src="Screenshots Quote/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.11.31.png" width="250"/>
+<img src="Screenshots Quote/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.14.png" width="250"/>
+<img src="Screenshots Quote/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.18.png" width="250"/>
+<img src="Screenshots Quote/Simulator Screenshot - iPhone 17 Pro Max - 2026-04-22 at 17.12.26.png" width="250"/>
 
 ## Author
 
